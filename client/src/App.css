@@ -1,0 +1,15 @@
+.App-header {
+  background-color: #cccbcb;
+  padding: 1em;
+  display: flex;
+  flex-direction: row;
+  gap: 2em;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-body {
+  padding: 1em;
+}
