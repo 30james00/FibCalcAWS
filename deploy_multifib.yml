@@ -22,7 +22,7 @@ jobs:
             image: 30james00/fibcalc-aws:fib-worker
           - dockerfile: ./Dockerfile
             context: nginx
-            image: 30james00/fibcalc-aws:fib-router  
+            image: 30james00/fibcalc-aws:fib-nginx  
     
     steps:
 
